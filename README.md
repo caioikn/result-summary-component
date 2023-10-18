@@ -14,7 +14,7 @@ Este projeto foi desenvolvido com o objetivo de criar um componente simples de r
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 
 ## Acesso ao projeto
-Projeto ainda não hospedado.
+Você pode acessar o projeto clicando [aqui](https://caioikn.github.io/result-summary-component/).
 
 ## Abrir e rodar o projeto
 1. Clone este repositório em sua máquina local ou baixe os arquivos clicando [aqui](https://github.com/caioikn/result-summary-component/archive/main/summary-component.zip).
