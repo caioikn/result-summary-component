@@ -3,7 +3,7 @@ const resultado = document.querySelector('#valor');
 
 let total = 0;
 
-fetch('../data.json')
+fetch('./data.json')
     .then(resposta => resposta.json())
     .then(dados => {
         for (let i = 0; i < dados.length; i++) {
